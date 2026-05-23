@@ -9,8 +9,8 @@
 ## 🛠️ Tech Stack & Skills
 - **Languages:** C, C++, Python, Bash Shell.
 - **OS & Networking:** Linux, OpenWrt, TCP/IP, Deep Packet Inspection (DPI).
-- **Platforms & Hardware:** STM32, Raspberry Pi, ROS, Qualcomm.
-- **Tools:** GoogleTest, CMake, GCC/GDB, UART Debugger.
+- **Platforms & Hardware:** STM32, Raspberry Pi, Qualcomm.
+- **Tools:** GoogleTest, CMake, OpenOCD, UART Debugger.
 ## 🏆 Achievements & Highlights
 ### 🥇 First Prize — HSU TechDev Challenge 2023
 - Developed an autonomous robot using LiDAR A1 and ROS Melodic for SLAM, self-localization, and autonomous navigation in the RViz environment.
