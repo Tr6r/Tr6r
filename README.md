@@ -1,11 +1,16 @@
 # Hi there, I'm Dinh Quoc Cuong. 👋
 🚀 CPE Embedded Software Intern | 💡 Passionate about automotive & embedded systems
 ## 🔭 Current Work | FPT Telecom (CDC Department)
-- Position: Full-time Embedded Software Intern
-- Team: CPE Team
-- Duration: Dec 2025 – Present
-- Responsibility: R&D for Linux networking and embedded systems
-- Currently researching and developing solutions for DPI agents on CPE routers
+- **Position:** Full-time Embedded Software Intern.
+- **Team:** CPE Team.
+- **Duration:** Dec 2025 – Present.
+- **Responsibility:** R&D for Linux networking and embedded systems.
+- **Currently:** researching and developing solutions for DPI agents on CPE routers.
+## 🛠️ Tech Stack & Skills
+- **Languages:** C, C++, Python, Bash Shell.
+- **OS & Networking:** Linux, OpenWrt, TCP/IP, Deep Packet Inspection (DPI).
+- **Platforms & Hardware:** STM32, Raspberry Pi, ROS, Qualcomm.
+- **Tools:** GoogleTest, CMake, GCC/GDB, UART Debugger.
 ## 🏆 Achievements & Highlights
 ### 🥇 First Prize — HSU TechDev Challenge 2023
 - Developed an autonomous robot using LiDAR A1 and ROS Melodic for SLAM, self-localization, and autonomous navigation in the RViz environment.
@@ -23,17 +28,3 @@
 ![IoT](https://img.shields.io/badge/IoT-Smart%20System-blue?style=flat-square)
 ![Smart Home](https://img.shields.io/badge/Smart%20Home-Automation-green?style=flat-square)
 - Github: https://github.com/Tr6r/Smart-Home
-<!--
-**Tr6r/Tr6r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
