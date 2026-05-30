@@ -3,8 +3,8 @@
 - **Responsibility:** Research and optimize network solutions
 ## Skills
 - **Languages:** C, C++
-- **Platforms:** OpenWrt, ARM Cortex-M3
-- **Tools:** GoogleTest, OpenOCD, UART Debugger
+- **Platforms:** OpenWrt, STM (ARM Cortex-M3)
+- **Debug:** GoogleTest, OpenOCD, UART Debugger
 ## Achievements
 ### HSU TechDev Challenge 2023 (1st)
 - Built an autonomous robot using LiDAR and ROS for mapping and self-localization
